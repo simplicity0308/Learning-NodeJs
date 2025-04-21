@@ -4,6 +4,7 @@
 	"description": "A project that does something awesome",
 	"keywords": ["learning","beginer","nodejs","freecodecamp"],
 	"license": "Hello World",
+	"version": "69.6.9",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
